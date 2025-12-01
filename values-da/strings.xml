@@ -4,6 +4,7 @@
     <string name="no_active_sessions">Der er endnu ikke startet nye musiksessioner</string>
     <string name="single_user_warning">Installer venligst denne app som systembruger</string>
     <string name="warning_library_null">Wavelet kunne ikke instansiere %s effekter</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">Kunne ikke åbne url %s</string>
     <string name="warning_billing_service">Fejl %d: Faktureringstjeneste er ikke tilgængelig</string>
     <string name="paid_feature">Lås op for alle funktioner til %s</string>

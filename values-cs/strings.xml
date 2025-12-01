@@ -4,6 +4,7 @@
     <string name="no_active_sessions">Zatím nebyly zahájeny žádné nové hudební relace</string>
     <string name="single_user_warning">Nainstalujte tuto aplikaci jako uživatel systému</string>
     <string name="warning_library_null">Waveletu se nepodařilo nainstalovat %s efektů</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">Nelze otevřít adresu url %s</string>
     <string name="warning_billing_service">Error %d: Fakturační služba není k dispozici</string>
     <string name="paid_feature">Odemknout všechny funkce pro %s</string>

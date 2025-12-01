@@ -4,6 +4,7 @@
     <string name="no_active_sessions">No new music sessions have been started yet</string>
     <string name="single_user_warning">Please install this app as system user</string>
     <string name="warning_library_null">Wavelet was unable to instantiate %s effects</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">Could not open url %s</string>
     <string name="warning_billing_service">Error %d: Billing service unavailable</string>
     <string name="paid_feature">Unlock all features for %s</string>

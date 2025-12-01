@@ -4,6 +4,7 @@
     <string name="no_active_sessions">لم تبدأ أي جلسات موسيقية بعد</string>
     <string name="single_user_warning">الرجاء  تثبيث هذا التطبيق كمستخدم النظام</string>
     <string name="warning_library_null">ويفليت لم يتمكن من إنشاء %s تأثيرات</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">لا يمكن فتح الرابط %s</string>
     <string name="warning_billing_service">خطأ %d: خدمة الفوترة غير متاحة</string>
     <string name="paid_feature">فتح كل الميزات بـ %s</string>

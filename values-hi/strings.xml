@@ -4,6 +4,7 @@
     <string name="no_active_sessions">अभी तक कोई नया संगीत शेषन शुरू नहीं किया गया है</string>
     <string name="single_user_warning">कृपया इस ऐप को सिस्टम उपयोगकर्ता के रूप में इंस्टॉल करें</string>
     <string name="warning_library_null">वेवलेट त्वरित करने में असमर्थ था %s प्रभाव</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">यूआरएल नहीं खुल सका %s</string>
     <string name="warning_billing_service">गलती %d: बिलिंग सेवा अनुपलब्ध है </string>
     <string name="paid_feature">सभी फिचर इतने %s मे अनलॉक करें </string>

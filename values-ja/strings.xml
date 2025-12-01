@@ -4,6 +4,7 @@
     <string name="no_active_sessions">まだ新しい音楽セッションが開始されていません</string>
     <string name="single_user_warning">システムユーザーとしてこのアプリをインストールしてください</string>
     <string name="warning_library_null">Wavelet は %s エフェクトをインスタンス化できませんでした</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">URL %s を開くことができませんでした</string>
     <string name="warning_billing_service">エラー %d: 課金サービスが利用できません</string>
     <string name="paid_feature">%s のすべての機能をアンロックします</string>

@@ -4,6 +4,7 @@
     <string name="no_active_sessions">טרם החלו סיישנים חדשים למוזיקה</string>
     <string name="single_user_warning">אנא התקן את הישומון כמשתמש מערכת</string>
     <string name="warning_library_null">וויבלט לא הצליח ליצור %s אפקטים</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">לא ניתן לפתור את הכתובת %s</string>
     <string name="warning_billing_service">שגיאה %d: שירות התשלומים אינו זמין</string>
     <string name="paid_feature">פתח כל התכוניות עבור %s</string>

@@ -4,6 +4,7 @@
     <string name="no_active_sessions">ยังไม่มีเซสชั่นเพลงใช้งานในขณะนี้</string>
     <string name="single_user_warning">กรุณาติดตั้งแอปฯ ในฐานะผู้ใช้ระบบ</string>
     <string name="warning_library_null">Wavelet ไม่สามารถแสดงเอฟเฟ็กต์ %s ได้</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">ไม่สามารถเปิดลิ้งก์ %s ได้</string>
     <string name="warning_billing_service">ข้อผิดพลาด %d: บริการเรียกเก็บเงินไม่พร้อมใช้งาน</string>
     <string name="paid_feature">ปลดล็อคทุกคุณสมบัติของ %s</string>

@@ -4,6 +4,7 @@
     <string name="no_active_sessions">Henüz yeni bir müzik oturumu başlatılmadı</string>
     <string name="single_user_warning">Lütfen bu uygulamayı sistem kullanıcısı olarak yükleyin</string>
     <string name="warning_library_null">Wavelet %s efektlerini başlatamadı</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">%s URLsi açılamadı</string>
     <string name="warning_billing_service">Hata %d: Ödeme hizmeti kullanılamıyor</string>
     <string name="paid_feature">Tüm özelliklerin kilidini %s ile açabilirsiniz</string>

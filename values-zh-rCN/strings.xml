@@ -4,6 +4,7 @@
     <string name="no_active_sessions">尚未启动过任何新的音乐会话</string>
     <string name="single_user_warning">请以系统用户身份安装该应用</string>
     <string name="warning_library_null">Wavelet 无法实例化 %s 效果</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">无法打开链接 %s</string>
     <string name="warning_billing_service">%d 错误：支付服务不可用</string>
     <string name="paid_feature">以 %s 的价格解锁所有功能</string>

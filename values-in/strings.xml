@@ -4,6 +4,7 @@
     <string name="no_active_sessions">Belum ada sesi musik yang dimulai!</string>
     <string name="single_user_warning">Harap pasang aplikasi ini sebagai pengguna Admin/Sistem</string>
     <string name="warning_library_null">Wavelet tidak dapat menyalakan efek %s</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">Tidak dapat membuka tautan %s</string>
     <string name="warning_billing_service">Error %d: Jasa pembayaran tidak ditemukan</string>
     <string name="paid_feature">Buka semua fitur seharga %s</string>

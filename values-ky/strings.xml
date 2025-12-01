@@ -4,6 +4,7 @@
     <string name="no_active_sessions">Жаңы музыка сессиялары али баштала элек</string>
     <string name="single_user_warning">Wavelet колдонмосун кадимки колдонуучу катары орнотуңуз</string>
     <string name="warning_library_null">Wavelet %s эффекттерин иштетүүгө мүмкүнчүлүк алган жок</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">Шилтеме %s ачылбай жатат</string>
     <string name="warning_billing_service">Ката %d: Төлөм кызматы жеткиликтүү эмес</string>
     <string name="paid_feature">%s үчүн бардык функцияларды ачуу</string>

@@ -4,6 +4,7 @@
     <string name="no_active_sessions">Музыкальные сессии пока что не запущены</string>
     <string name="single_user_warning">Установите Wavelet как обычное приложение</string>
     <string name="warning_library_null">Wavelet не может создать экземпляр %s эффектов</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">Невозможно открыть ссылку %s</string>
     <string name="warning_billing_service">Ошибка %d: Оплата недоступна</string>
     <string name="paid_feature">Разблокировать все функции за %s</string>

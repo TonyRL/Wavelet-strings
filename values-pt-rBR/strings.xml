@@ -4,6 +4,7 @@
     <string name="no_active_sessions">Não há sessões de música ativas!</string>
     <string name="single_user_warning">Por gentileza instale este aplicativo como um usuário de sistema</string>
     <string name="warning_library_null">O Wavelet não foi capaz de instanciar o(s) efeito(s) %s</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">Não foi possível abrir a URL %s</string>
     <string name="warning_billing_service">Erro %d: O serviço de cobrança está indisponível</string>
     <string name="paid_feature">Desbloqueie todos os recursos por %s</string>

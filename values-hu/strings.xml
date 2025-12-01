@@ -4,6 +4,7 @@
     <string name="no_active_sessions">Még nem indultak új zenei munkamenetek</string>
     <string name="single_user_warning">Kérjük, telepítse ezt az alkalmazást rendszergazdaként</string>
     <string name="warning_library_null">Wavelet nem tudta inicializálni a %s effekteket</string>
+    <string name="warning_service_not_started">Wavelet service could not be started</string>
     <string name="warning_no_browser">Nem sikerült megnyitni az URL-t: %s</string>
     <string name="warning_billing_service">Hiba %d: A számlázási szolgáltatás nem érhető el</string>
     <string name="paid_feature">Minden funkció feloldása %s-ért</string>
